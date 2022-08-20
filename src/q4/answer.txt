@@ -1,0 +1,2 @@
+a) Decorator Pattern
+b) q4b.png

@@ -1,0 +1,2 @@
+a) Composite Pattern
+b) q3b.png
